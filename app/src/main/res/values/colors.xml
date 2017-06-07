@@ -3,4 +3,13 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <color name="dodger_blue">#1C9CF2</color>
+    <color name="maya_blue">#74C2F8</color>
+    <color name="alice_blue">#FBFDFF</color>
+    <color name="columbia_blue">#A8D9FA</color>
+    <color name="pattens_blue">#D6EDFD</color>
+    <color name="onahau">#BAE1FB</color>
+
 </resources>
